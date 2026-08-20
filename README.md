@@ -22,7 +22,7 @@
 
 I'm a **Software Engineering student** focused on building a strong foundation in software development, backend engineering and infrastructure.
 
-I'm developing skills across **C# / .NET, Python, TypeScript, React, Next.js, databases, cloud and DevOps**.
+I'm developing skills across **C# / .NET, Python, JavaScript, TypeScript, Node.js, React, Next.js, databases, cloud and DevOps**.
 
 I believe in learning through implementation: studying the fundamentals, building projects, documenting the process and gradually increasing technical complexity.
 
@@ -32,18 +32,22 @@ I believe in learning through implementation: studying the fundamentals, buildin
 
 <div align="center">
 
-### Core
+### Languages
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,python,ts,js,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cs,python,js,ts&theme=dark" />
 
-### Development
+### Frameworks & Web
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,html,css,react,nextjs,tailwind&theme=dark" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
 ### Infrastructure & Data
 
 <img src="https://skillicons.dev/icons?i=linux,docker,aws,postgres,mysql&theme=dark" />
-
+<img src="https://cdn.simpleicons.org/mariadb/8B949E" height="48" />
 </div>
 
 ---
@@ -62,13 +66,14 @@ A public roadmap containing study stages, notes, exercises and practical impleme
 
 ---
 
+
 ## `04` — Projects
 
 Projects will be added here as I build and complete them.
 
 ---
 
-## `05` — Engineering Principles
+## `05` — Engineering
 
 I'm not only interested in making code work.
 
@@ -128,6 +133,7 @@ Cloud Fundamentals
 
 </div>
 ---
+
 
 ## `07` — Connect
 
