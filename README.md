@@ -66,7 +66,6 @@ A public roadmap containing study stages, notes, exercises and practical impleme
 
 ---
 
-
 ## `04` — Projects
 
 Projects will be added here as I build and complete them.
@@ -124,21 +123,22 @@ Cloud Fundamentals
   <br />
   <br />
 
-  <!-- Gatinho que evolui conforme os commits -->
+  <!-- Gatinho que evolui segundo os commits dos últimos 12 meses -->
   <a href="https://github.com/ArthurTardin">
-    <img src="https://github-readme-pet.vercel.app/api/pet?user=ArthurTardin&amp;pet=cat&amp;theme=dark" alt="Gatinho do GitHub" />
+    <img src="https://raw.githubusercontent.com/ArthurTardin/ArthurTardin/output/commit-cat.svg" alt="Gatinho que evolui com os commits" width="720" />
   </a>
 
   <br />
   <br />
 
-  <!-- Pac-Man a comer as contribuições -->
+  <!-- Pac-Man come as contribuições e foge dos fantasmas -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArthurTardin/ArthurTardin/output/pacman-contribution-graph-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArthurTardin/ArthurTardin/output/pacman-contribution-graph.svg" />
-    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/ArthurTardin/ArthurTardin/output/pacman-contribution-graph-dark.svg" />
+    <img alt="Pac-Man comendo a grade de contribuições e fugindo dos fantasmas" src="https://raw.githubusercontent.com/ArthurTardin/ArthurTardin/output/pacman-contribution-graph-dark.svg" />
   </picture>
 </div>
+
 ---
 
 ## `07` — Connect
