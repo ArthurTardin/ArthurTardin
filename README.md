@@ -4,13 +4,13 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1800&color=8B949E&center=true&vCenter=true&width=720&lines=Software+Engineering+Student;C%23+%2F+.NET+%E2%80%A2+Python;TypeScript+%2F+React+%E2%80%A2+Next.js;Backend+%E2%80%A2+Cloud+%E2%80%A2+DevOps;Learning+by+building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1800&color=8B949E&center=true&vCenter=true&width=720&lines=Software+Engineering+Student;C%23+%2F+.NET+%E2%80%A2+Backend;Linux+%E2%80%A2+Git+%E2%80%A2+DevOps;Python+for+Automation+%26+Tooling;Learning+by+building" alt="Typing SVG" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-161b22?style=for-the-badge&labelColor=0d1117&color=30363d" />
-<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20ENGINEERING-161b22?style=for-the-badge&labelColor=0d1117&color=30363d" />
-<img src="https://img.shields.io/badge/BACKEND-C%23%20%2F%20.NET-161b22?style=for-the-badge&labelColor=0d1117&color=30363d" />
+<img src="https://img.shields.io/badge/FOCUS-BACKEND%20%2F%20DEVOPS-161b22?style=for-the-badge&labelColor=0d1117&color=30363d" />
+<img src="https://img.shields.io/badge/CORE-C%23%20%2F%20.NET-161b22?style=for-the-badge&labelColor=0d1117&color=30363d" />
+<img src="https://img.shields.io/badge/INFRA-LINUX%20%2F%20DOCKER-161b22?style=for-the-badge&labelColor=0d1117&color=30363d" />
 
 </div>
 
@@ -20,128 +20,85 @@
 
 ## `01` — About
 
-I'm a **Software Engineering student** focused on building a strong foundation in software development, backend engineering and infrastructure.
+I'm a **Software Engineering student** building a backend and infrastructure-focused skill set: **C# / .NET, Linux, Git, and DevOps tooling**, with Python as an automation and infra scripting layer.
 
-I'm developing skills across **C# / .NET, Python, JavaScript, TypeScript, Node.js, React, Next.js, databases, cloud and DevOps**.
+My approach is study-then-build: work through structured stages, get quizzed before advancing, then implement. No shortcuts, no skipping fundamentals.
 
-I believe in learning through implementation: studying the fundamentals, building projects, documenting the process and gradually increasing technical complexity.
+📘 [**Study roadmaps (C#, Linux, Git)**](https://github.com/ArthurTardin/csharp-study-schedule)
 
 ---
 
-## `02` — Technology
+## `02` — Core Stack
 
 <div align="center">
 
-### Languages
+### Backend
 
-<img src="https://skillicons.dev/icons?i=cs,python,js,ts&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python&theme=dark" />
 
-### Frameworks & Web
+### Infrastructure
 
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,html,css,react,nextjs,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,docker,aws,git,github&theme=dark" />
 
-### Tools
+### Data
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-
-### Infrastructure & Data
-
-<img src="https://skillicons.dev/icons?i=linux,docker,aws,postgres,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
 <img src="https://cdn.simpleicons.org/mariadb/8B949E" height="48" />
+
 </div>
 
----
-
-## `03` — Learning Path
-
-I'm following a structured, stage-by-stage approach rather than trying to learn everything at once.
-
-### C# / .NET
-
-**Fundamentals → OOP → Advanced C# → .NET → ASP.NET Core → APIs → Architecture → Testing**
-
-📘 [**C# / .NET Study Schedule**](https://github.com/ArthurTardin/csharp-study-schedule)
-
-A public roadmap containing study stages, notes, exercises and practical implementations.
+<details>
+<summary><b>Also worked with</b> (not primary focus — full-stack is not the goal)</summary>
+<br>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,vscode&theme=dark" />
+</div>
+</details>
 
 ---
 
-## `04` — Projects
-
-Projects will be added here as I build and complete them.
-
----
-
-## `05` — Engineering
-
-I'm not only interested in making code work.
-
-I'm studying how to make software:
-
-* **Readable**
-* **Maintainable**
-* **Testable**
-* **Reliable**
-* **Scalable**
-* **Secure**
-* **Observable**
-
-Current engineering topics:
+## `03` — Engineering Focus
 
 ```text
-Clean Code
-Object-Oriented Design
-SOLID
-Design Patterns
-Dependency Injection
-REST APIs
-Database Design
-Automated Testing
-Git & GitHub
-CI/CD
-Docker
-Cloud Fundamentals
+Clean Code · SOLID · Design Patterns
+REST APIs · Database Design
+Automated Testing (xUnit)
+Git & GitHub workflows
+Docker · CI/CD · Cloud Fundamentals
 ```
 
 ---
 
-## `06` — GitHub
+## `04` — GitHub Activity
 
 <div align="center">
-  <img src="assets/arthurtardin-header.svg" alt="Arthur Tardin — um gatinho apoiado sobre o nome" width="900" />
+  <img src="assets/arthurtardin-header.svg" alt="Arthur Tardin header" width="900" />
 
-  <br />
-  <br />
+  <br /><br />
 
   <a href="https://github.com/ArthurTardin">
-    <img height="165" src="https://github-stats-extended.vercel.app/api?username=ArthurTardin&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;count_private=true" alt="Estatísticas do GitHub de ArthurTardin" />
+    <img height="165" src="https://github-stats-extended.vercel.app/api?username=ArthurTardin&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" />
   </a>
   <a href="https://github.com/ArthurTardin">
-    <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ArthurTardin&amp;theme=github_dark&amp;hide_border=true&amp;layout=compact" alt="Linguagens mais usadas por ArthurTardin" />
+    <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ArthurTardin&theme=github_dark&hide_border=true&layout=compact" alt="Top languages" />
   </a>
 
-  <br />
-  <br />
+  <br /><br />
 
-  <!-- Gatinho que evolui segundo os commits dos últimos 12 meses -->
-  <a href="https://github.com/ArthurTardin">
-    <img src="https://raw.githubusercontent.com/ArthurTardin/ArthurTardin/output/commit-cat.svg" alt="Gatinho que evolui com os commits" width="720" />
-  </a>
-
-  <br />
-  <br />
-
-  <!-- Pac-Man come as contribuições e foge dos fantasmas -->
+  <!-- Pac-Man eats the contribution grid, ghosts chase — requires the
+       generation Action to be set up in this repo (branch: output).
+       See: https://github.com/marketplace/actions/generate-pacman-game-from-github-contribution-grid -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArthurTardin/ArthurTardin/output/pacman-contribution-graph-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArthurTardin/ArthurTardin/output/pacman-contribution-graph.svg" />
-    <img alt="Pac-Man comendo a grade de contribuições e fugindo dos fantasmas" src="https://raw.githubusercontent.com/ArthurTardin/ArthurTardin/output/pacman-contribution-graph-dark.svg" />
+    <img alt="Pac-Man eating the contribution graph, chased by ghosts" src="https://raw.githubusercontent.com/ArthurTardin/ArthurTardin/output/pacman-contribution-graph-dark.svg" />
   </picture>
+
 </div>
 
 ---
 
-## `07` — Connect
+## `05` — Connect
 
 <div align="center">
 
