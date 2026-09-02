@@ -20,8 +20,8 @@ jobs:
               uses: abozanona/pacman-contribution-graph@main
               with:
                   github_user_name: ${{ github.repository_owner }}
-                  # Lista separada por vírgula dos jogos a gerar. Default: pacman
-                  games: 'galaga'
+                  # 3 jogos de teste - troque/adicione conforme quiser
+                  games: 'pacman,breakout,galaga'
                   # Omite a linha de labels dos meses acima da grade. Default: false
                   hide_month_labels: 'false'
 
