@@ -71,8 +71,7 @@ Docker · CI/CD · Cloud Fundamentals
 
 ## `04` — GitHub Activity
 
-<div align="center">
-  <img src="assets/arthurtardin-header.svg" alt="Arthur Tardin header" width="900" />
+<div align="center"> <img src="assets/terminal-activity-header.svg" alt="Terminal: git log --stat" width="720" />
 
   <br /><br />
 
