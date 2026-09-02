@@ -85,14 +85,26 @@ Docker · CI/CD · Cloud Fundamentals
 
   <br /><br />
 
-  <!-- Pac-Man eats the contribution grid, ghosts chase — requires the
-       generation Action to be set up in this repo (branch: output).
-       See: https://github.com/marketplace/actions/generate-pacman-game-from-github-contribution-grid -->
-  <picture>
+ <!-- pacman -->
+<picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArthurTardin/ArthurTardin/output/pacman-contribution-graph-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArthurTardin/ArthurTardin/output/pacman-contribution-graph.svg" />
-    <img alt="Pac-Man eating the contribution graph, chased by ghosts" src="https://raw.githubusercontent.com/ArthurTardin/ArthurTardin/output/pacman-contribution-graph-dark.svg" />
-  </picture>
+    <img alt="Pac-Man eating the contribution graph" src="https://raw.githubusercontent.com/ArthurTardin/ArthurTardin/output/pacman-contribution-graph-dark.svg" />
+</picture>
+
+<!-- breakout -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArthurTardin/ArthurTardin/output/breakout-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArthurTardin/ArthurTardin/output/breakout-contribution-graph.svg" />
+    <img alt="Breakout ball breaking the contribution graph" src="https://raw.githubusercontent.com/ArthurTardin/ArthurTardin/output/breakout-contribution-graph-dark.svg" />
+</picture>
+
+<!-- galaga -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArthurTardin/ArthurTardin/output/galaga-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArthurTardin/ArthurTardin/output/galaga-contribution-graph.svg" />
+    <img alt="Galaga ship shooting the contribution graph" src="https://raw.githubusercontent.com/ArthurTardin/ArthurTardin/output/galaga-contribution-graph-dark.svg" />
+</picture>
 
 </div>
 
