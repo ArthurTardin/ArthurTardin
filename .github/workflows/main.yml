@@ -1,0 +1,35 @@
+name: generate arcade contribution graphs
+
+on:
+    schedule: # Roda automaticamente a cada 24h
+        - cron: '0 0 * * *'
+    workflow_dispatch: # Permite rodar manualmente pela aba Actions
+    push: # Roda a cada push na main
+        branches:
+            - main
+
+jobs:
+    generate:
+        permissions:
+            contents: write
+        runs-on: ubuntu-latest
+        timeout-minutes: 20
+
+        steps:
+            - name: generate contribution graph SVGs
+              uses: abozanona/pacman-contribution-graph@main
+              with:
+                  github_user_name: ${{ github.repository_owner }}
+                  # Lista separada por vírgula dos jogos a gerar. Default: pacman
+                  games: 'pacman'
+                  # Omite a linha de labels dos meses acima da grade. Default: false
+                  hide_month_labels: 'false'
+
+            # Empurra os SVGs gerados para o branch "output"
+            - name: push SVGs to the output branch
+              uses: crazy-max/ghaction-github-pages@v3.1.0
+              with:
+                  target_branch: output
+                  build_dir: dist
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
