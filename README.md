@@ -109,31 +109,37 @@ Cloud Fundamentals
 ## `06` — GitHub
 
 <div align="center">
+  <img src="assets/arthurtardin-header.svg" alt="Arthur Tardin — um gatinho apoiado sobre o nome" width="900" />
 
-<img
-  height="165"
-  src="https://github-stats-extended.vercel.app/api?username=ArthurTardin&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
-/>
+  <br />
+  <br />
 
-<img
-  height="165"
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=ArthurTardin&theme=github_dark&hide_border=true&layout=compact"
-/>
+  <a href="https://github.com/ArthurTardin">
+    <img height="165" src="https://github-stats-extended.vercel.app/api?username=ArthurTardin&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;count_private=true" alt="Estatísticas do GitHub de ArthurTardin" />
+  </a>
+  <a href="https://github.com/ArthurTardin">
+    <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ArthurTardin&amp;theme=github_dark&amp;hide_border=true&amp;layout=compact" alt="Linguagens mais usadas por ArthurTardin" />
+  </a>
 
-</div>
+  <br />
+  <br />
 
-<br>
+  <!-- Gatinho que evolui conforme os commits -->
+  <a href="https://github.com/ArthurTardin">
+    <img src="https://github-readme-pet.vercel.app/api/pet?user=ArthurTardin&amp;pet=cat&amp;theme=dark" alt="Gatinho do GitHub" />
+  </a>
 
-<div align="center">
+  <br />
+  <br />
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=ArthurTardin&bg_color=0d1117&color=8b949e&line=30363d&point=f0f6fc&area=true&hide_border=true"
-  width="95%"
-/>
-
+  <!-- Pac-Man a comer as contribuições -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArthurTardin/ArthurTardin/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArthurTardin/ArthurTardin/output/pacman-contribution-graph.svg" />
+    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/ArthurTardin/ArthurTardin/output/pacman-contribution-graph-dark.svg" />
+  </picture>
 </div>
 ---
-
 
 ## `07` — Connect
 
