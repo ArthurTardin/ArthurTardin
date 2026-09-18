@@ -36,6 +36,8 @@ My approach is study-then-build: work through structured stages, get quizzed bef
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,python&theme=dark" />
 
+**Entity Framework Core • ADO.NET**
+
 ### Infrastructure
 
 <img src="https://skillicons.dev/icons?i=linux,docker,aws,git,github&theme=dark" />
