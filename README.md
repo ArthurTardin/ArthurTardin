@@ -34,7 +34,7 @@ My approach is study-then-build: work through structured stages, get quizzed bef
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,go&theme=dark" />
 
 **Entity Framework Core • ADO.NET • ASP.NET**
 
