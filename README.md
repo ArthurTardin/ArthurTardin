@@ -36,7 +36,7 @@ My approach is study-then-build: work through structured stages, get quizzed bef
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,python&theme=dark" />
 
-**Entity Framework Core • ADO.NET**
+**Entity Framework Core • ADO.NET • ASP.NET**
 
 ### Infrastructure
 
@@ -46,6 +46,7 @@ My approach is study-then-build: work through structured stages, get quizzed bef
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
 <img src="https://cdn.simpleicons.org/mariadb/8B949E" height="48" />
+<img src="https://cdn.simpleicons.org/dbeaver/8B949E" height="48" />
 
 </div>
 
