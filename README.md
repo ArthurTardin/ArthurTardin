@@ -48,6 +48,10 @@ My approach is study-then-build: work through structured stages, get quizzed bef
 <img src="https://cdn.simpleicons.org/mariadb/8B949E" height="48" />
 <img src="https://cdn.simpleicons.org/dbeaver/8B949E" height="48" />
 
+### Game Development
+
+<img src="https://skillicons.dev/icons?i=unity&theme=dark" />
+
 </div>
 
 <details>
